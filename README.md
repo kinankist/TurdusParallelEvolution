@@ -7,3 +7,6 @@ Main directory contains fasta files generated using bcftools consensus utility
 GenomeScan folder contains preliminary graphs
 * Nucleotide diversity for all combinations of species
 * Fst ("pseudo", because there are only two samples)
+
+# To do:
+add audio recordings to cluster
