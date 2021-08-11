@@ -8,7 +8,7 @@ GenomeScan folder contains preliminary graphs
 * Nucleotide diversity for all combinations of species
 * Fst ("pseudo", because there are only two samples)
 
-# Downloaded all recordings
+### Downloaded all recordings
 
 # To do:
 add audio recordings to cluster
