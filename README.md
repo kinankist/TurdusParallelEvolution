@@ -13,8 +13,7 @@ GenomeScan folder contains preliminary graphs
 # To do:
 add audio recordings to cluster
 
-RAxML
+RAxML \
 PAML
-
 
 blast to reorder
