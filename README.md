@@ -11,9 +11,15 @@ GenomeScan folder contains preliminary graphs
 ### Downloaded all recordings
 
 # To do:
-add audio recordings to cluster
-
-RAxML \
-PAML
-
-blast to reorder
+### PLAN:
+#### Fig.1 Manhattan plot
+	Remap genome
+	Plot
+#### Fig. 2 Types of substitutions
+	Remap genome
+	PAML
+	snpEFF or similar
+#### Fig. 3 Phylogeny
+	Choose genes
+	Choose software
+	RAxML
